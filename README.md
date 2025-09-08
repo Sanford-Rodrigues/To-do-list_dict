@@ -1,4 +1,4 @@
-#To Do List project using Dictionary
+# To Do List project using Dictionary
 
 # Project Overview
 This is a simple application for managing tasks. It  allows user to add, delete, update & view tasks. Each  task contains a name, deadline, priority and status.
